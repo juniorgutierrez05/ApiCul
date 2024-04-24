@@ -1,9 +1,9 @@
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="" width="200" alt="Nest Logo" /></a>
-  ![Instalcion de laragon](https://ibb.co/NZDstN3)
+  
 
 </p>
-
+![Instalcion de laragon](https://ibb.co/NZDstN3)
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
