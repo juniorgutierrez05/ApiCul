@@ -1,6 +1,11 @@
 <p align="center">
+<<<<<<< HEAD
   <a href="http://nestjs.com/" target="blank"><img src="" width="200" alt="Nest Logo" /></a>
   
+=======
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+</p>
+>>>>>>> parent of da03365 (Update README.md)
 
 </p>
 ![Instalcion de laragon](https://ibb.co/NZDstN3)
